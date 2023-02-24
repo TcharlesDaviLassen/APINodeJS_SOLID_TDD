@@ -21,5 +21,10 @@
 - JEST roda os testes.
 - SWC faz a conversão para typescript.
 
+#
+# return
+
+A declaração return ```finaliza a execução de uma função``` e especifica os valores que devem ser retonados para onde a função foi chamada.
 
 - # APINodeJS_SOLID_TDD
+
