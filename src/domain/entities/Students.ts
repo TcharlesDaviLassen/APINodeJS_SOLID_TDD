@@ -6,7 +6,7 @@ type TStudentProps = {
 }
 
 export class Student extends Entity<TStudentProps> {
-    
+  
     // Não posso acessar a classe de fora dela
     private constructor(props: TStudentProps, id?: string) {
         super(props, id);
