@@ -2,7 +2,7 @@
 
 - Maioria das vezes uma aplicação é feita a partir de rotas ou  da tabela do banco de dados, nessa exemplificação aqui não é o caso.
 
-- Usar as exemplificações dadas, como por exemplo student não colocar trocar po user, referir ao que foi passado para ajudar a compreender principalmente quem entende da questão.
+- Usar as exemplificações dadas, como por exemplo student não colocar trocar por user, referir ao que foi passado para ajudar a compreender principalmente quem entende da questão.
 
 #
 
@@ -14,4 +14,12 @@
 
 # TESTES TDD
 
-- Uma das formas de testar se algo está funcionando é criar testes, não se enquadra apenas em rotas ou consultas a bancos.# APINodeJS_SOLID_TDD
+- TDD é metodógia.
+  
+- Uma das formas de testar se algo está funcionando é criar testes, não se enquadra apenas em rotas ou consultas a bancos.
+
+- JEST roda os testes.
+- SWC faz a conversão para typescript.
+
+
+- # APINodeJS_SOLID_TDD

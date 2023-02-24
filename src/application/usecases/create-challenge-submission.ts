@@ -5,8 +5,10 @@ type TCreateChallengeSubmissionRequest = {
     challengeId: string;
 }
 
-class CreateChallengeSubmission {
-    execute({ studentId, challengeId }: TCreateChallengeSubmissionRequest) {
+ export class CreateChallengeSubmission {
+
+    async execute({ studentId, challengeId }: TCreateChallengeSubmissionRequest) {
+
         const submission = Submission.create({
             studentId,
             challengeId
